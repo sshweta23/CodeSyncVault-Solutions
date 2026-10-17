@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "LeetCode/C++/medium/Longest-Repeating-Character-Replacement/Solution.cpp",
+      "metadata": {
+        "platform": "LeetCode",
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement",
+        "difficulty": "medium",
+        "language": "C++",
+        "url": "https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2174828965/",
+        "tags": [
+          "Hash Table",
+          "String",
+          "Sliding Window",
+          "Hash Map",
+          "Math",
+          "Substring"
+        ],
+        "solvedAt": "2026-10-17T18:52:37.432Z",
+        "patterns": [
+          "Hash Map",
+          "Sliding Window"
+        ],
+        "topics": [
+          "String",
+          "Math"
+        ],
+        "timeComplexity": "O(n)",
+        "spaceComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-17T18:52:37.432Z"
+    }
+  ]
+}
