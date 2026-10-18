@@ -31,6 +31,33 @@
         "spaceComplexity": "O(n)"
       },
       "solvedAt": "2026-10-17T18:52:37.432Z"
+    },
+    {
+      "path": "gfg/C++/Medium/Longest-Substring-with-K-Uniques/Solution.cpp",
+      "metadata": {
+        "platform": "gfg",
+        "title": "Longest Substring with K Uniques",
+        "slug": "longest-k-unique-characters-substring0853",
+        "difficulty": "Medium",
+        "language": "C++",
+        "url": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
+        "solvedAt": "2026-10-18T00:45:31.382Z",
+        "patterns": [
+          "Sliding Window"
+        ],
+        "topics": [
+          "String",
+          "Math"
+        ],
+        "tags": [
+          "Sliding Window",
+          "String",
+          "Math",
+          "Substring"
+        ],
+        "timeComplexity": "O(n)"
+      },
+      "solvedAt": "2026-10-18T00:45:31.382Z"
     }
   ]
 }

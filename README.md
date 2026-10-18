@@ -2,7 +2,7 @@
 
 > Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-1-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-0-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-1-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-2-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-0-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-2-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
 ---
 
@@ -17,20 +17,20 @@
 
 | Metric | Count |
 | --- | ---: |
-| 🏆 Total Solved | 1 |
+| 🏆 Total Solved | 2 |
 | 🔵 Basic | 0 |
 | 🟢 Easy | 0 |
-| 🟠 Medium | 1 |
+| 🟠 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ## 📈 Progress
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟠 Medium | ████████████████████ 100% | 1/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟠 Medium | ████████████████████ 100% | 2/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🔥 Coding Activity
 
@@ -40,32 +40,34 @@
 
 | Pattern | Problems |
 | --- | ---: |
+| [Sliding Window](patterns/Sliding%20Window.md) | 2 |
 | [Hash Map](patterns/Hash%20Map.md) | 1 |
-| [Sliding Window](patterns/Sliding%20Window.md) | 1 |
 
 ## 📚 Topic Index
 
 | Topic | Problems |
 | --- | ---: |
-| [Math](topics/Math.md) | 1 |
-| [String](topics/String.md) | 1 |
+| [Math](topics/Math.md) | 2 |
+| [String](topics/String.md) | 2 |
 
 ## 💻 Languages
 
 | Language | Problems |
 | --- | ---: |
-| C++ | 1 |
+| C++ | 2 |
 
 ## 🌐 Platforms
 
 | Platform | Problems |
 | --- | ---: |
+| GeeksforGeeks | 1 |
 | LeetCode | 1 |
 
 ## 🕒 Recently Solved
 
 | Problem | Difficulty | Language | Platform | Date |
 | --- | --- | --- | --- | --- |
+| [Longest Substring with K Uniques](gfg/C%2B%2B/Medium/Longest-Substring-with-K-Uniques/README.md) | Medium | C++ | GeeksforGeeks | 2026-10-18 |
 | [Longest Repeating Character Replacement](LeetCode/C%2B%2B/medium/Longest-Repeating-Character-Replacement/README.md) | Medium | C++ | LeetCode | 2026-10-17 |
 
 ## 📚 Solution Documentation

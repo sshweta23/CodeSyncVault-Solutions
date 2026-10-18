@@ -10,46 +10,47 @@
 
 | Metric | Count | Percentage |
 | --- | ---: | ---: |
-| 🏆 Total Solved | 1 | 100% |
+| 🏆 Total Solved | 2 | 100% |
 | 🔵 Basic | 0 | 0% |
 | 🟢 Easy | 0 | 0% |
-| 🟠 Medium | 1 | 100% |
+| 🟠 Medium | 2 | 100% |
 | 🔴 Hard | 0 | 0% |
 
 ## 🎯 Difficulty Distribution
 
 | Difficulty | Progress | Solved |
 | --- | --- | ---: |
-| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
-| 🟠 Medium | ████████████████████ 100% | 1/1 |
-| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟢 Easy | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
+| 🟠 Medium | ████████████████████ 100% | 2/2 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/2 |
 
 ## 🌐 Platform Distribution
 
 | Platform | Problems |
 | --- | ---: |
+| gfg | 1 |
 | LeetCode | 1 |
 
 ## 💻 Language Distribution
 
 | Language | Problems |
 | --- | ---: |
-| C++ | 1 |
+| C++ | 2 |
 
 ## 🧩 Pattern Distribution
 
 | Pattern | Problems |
 | --- | ---: |
+| Sliding Window | 2 |
 | Hash Map | 1 |
-| Sliding Window | 1 |
 
 ## 📚 Topic Distribution
 
 | Topic | Problems |
 | --- | ---: |
-| Math | 1 |
-| String | 1 |
+| Math | 2 |
+| String | 2 |
 
 ---
 
